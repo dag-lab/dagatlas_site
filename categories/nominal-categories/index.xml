@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typological Atlas of East-Caucasian Languages</title>
+    <link>http://dagatlas.hol.es/categories/nominal-categories/index.xml</link>
+    <description>Recent content on Typological Atlas of East-Caucasian Languages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://dagatlas.hol.es/categories/nominal-categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Affective</title>
+      <link>http://dagatlas.hol.es/post/Affective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/Affective/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/affective.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altitude Contrast</title>
+      <link>http://dagatlas.hol.es/post/altitude_contrast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/altitude_contrast/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/altitude_contrast.html&#34; width= &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causee Marking</title>
+      <link>http://dagatlas.hol.es/post/causee_marking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/causee_marking/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+function popupfunc() {
+    var popup = document.getElementById(&#39;PopupID&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc1() {
+    var popup = document.getElementById(&#39;PopupID1&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc2() {
+    var popup = document.getElementById(&#39;PopupID2&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc3() {
+    var popup = document.getElementById(&#39;PopupID3&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc4() {
+    var popup = document.getElementById(&#39;PopupID4&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc5() {
+    var popup = document.getElementById(&#39;PopupID5&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc6() {
+    var popup = document.getElementById(&#39;PopupID6&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc7() {
+    var popup = document.getElementById(&#39;PopupID7&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Causative constructions (see also &lt;i&gt;глаголы с понудительным значением&lt;/i&gt; [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc()&#34;&gt;Бокарев 1949&lt;span class=&#34;popuptext&#34; id=&#34;PopupID&#34;&gt;Бокарев А. А. Очерк грамматики чамалинского языка. Издательство Академии наук СССР, 1949.&lt;/span&gt;&lt;/span&gt;],
+&lt;i&gt;понудительный залог глагола&lt;/i&gt; [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc1()&#34;&gt;Сулейманов 1957&lt;span class=&#34;popuptext&#34; id=&#34;PopupID1&#34;&gt;Сулейманов Я. Г. Грамматический очерк андийского языка (по данным говора с. Риквани). М.: Институт языкознания Академии наук союза ССР, 1957.&lt;/span&gt;&lt;/span&gt;]) are widespread in the languages of the world, and in Dagestanian languages in particular. Causative construction presumes the existence of two situations, the cause and its result. The new agent called causer is added. Former subject (S or P of the initial situation), now the ‘causee’, gets lower syntactic position. The main parameters of the typological variation of causatives are, firstly, the ways to form the causative (morphologically or analytically) and, secondly, the case-marking of the causee.&lt;/p&gt;
+
+&lt;p&gt;The case of the causee depends on the initial verb. If it is intransitive, the causee takes the position of P and acquires nominative case. If it is a transitive verb, the positions of A and P are already occupied and the causee takes the next vacant slot in the syntactic hierarchy [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc2()&#34;&gt;Comrie 1989&lt;span class=&#34;popuptext&#34; id=&#34;PopupID2&#34;&gt;Comrie B. Language Universals and Linguistic Typology. Syntax and Morphology. Chicago: The University of Chicago Press, 1989&lt;/span&gt;&lt;/span&gt;]. Additionally, the choice of the case may depend on the semantic factors.&lt;/p&gt;
+
+&lt;p&gt;In Northeast Caucasian languages causee is often marked with locative cases (Aghul, Bagvalal, Bats, Godoberi, etc.) (1), sometimes with dative (Ingush, Lak, Udi) (2) or ergative (Aghul, Kubachi) (3).&lt;/p&gt;
+
+&lt;!--&lt;div class=&#34;gloss&#34;&gt;
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&#34;%%&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;--&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(1) Causee is marked with contessive case (Godoberi, [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc4()&#34;&gt;Kibrik et al. 1996&lt;span class=&#34;popuptext&#34; id=&#34;PopupID4&#34;&gt;Kibrik A. E., Tatevosov S. G., Eulenberg A. Studies in Godoberi. Lincom Europa, 1996.&lt;/span&gt;&lt;/span&gt;])
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;a.&lt;/td&gt;&lt;td&gt;waš-u-di&lt;/td&gt;&lt;td&gt;izu&lt;/td&gt;&lt;td&gt;r-ali&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;son-&lt;span class=&#34;scaps&#34;&gt;OBL&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;clothes&lt;/td&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;NPL&lt;/span&gt;-put.on.&lt;span class=&#34;scaps&#34;&gt;PST&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&#34;3&#34;&gt;‘The son put on the clothes’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;b.&lt;/td&gt;&lt;td&gt;il-u-di&lt;/td&gt;&lt;td&gt;waš-u-č’u&lt;/td&gt;&lt;td&gt;izu&lt;/td&gt;&lt;td&gt;r-al-ali&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;mother-&lt;span class=&#34;scaps&#34;&gt;OBL&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;son-&lt;span class=&#34;scaps&#34;&gt;OBL&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;CONT&lt;/span&gt;&lt;/td&gt;&lt;td&gt;clothes&lt;/td&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;NPL&lt;/span&gt;-put.on.&lt;span class=&#34;scaps&#34;&gt;CAUS.PST&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&#34;4&#34;&gt;‘Mother dressed her son in the clothes’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(2) Causee is marked with dative case (Udi, [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc5()&#34;&gt;Майсак 2008&lt;span class=&#34;popuptext&#34; id=&#34;PopupID5&#34;&gt;Майсак Т.А. Глагольная парадигма удинского языка (ниджский диалект). Ганенков Д. С., Ландер Ю. А., Майсак Т.А. Удинский сборник: грамматика, лексика, история языка. М.: Academia, 2008.&lt;/span&gt;&lt;/span&gt;])
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;a.&lt;/td&gt;&lt;td&gt;χüjär-en&lt;/td&gt;&lt;td&gt;sijoʁ=e&lt;/td&gt;&lt;td&gt;boχ-i&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;girl-&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;porridge=&lt;span class=&#34;scaps&#34;&gt;3SG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;cook-&lt;span class=&#34;scaps&#34;&gt;AOR&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&#34;3&#34;&gt;‘The girl cooked porridge’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;b.&lt;/td&gt;&lt;td&gt;nana-n&lt;/td&gt;&lt;td&gt;χüjär-ä&lt;/td&gt;&lt;td&gt;sijoʁ=e&lt;/td&gt;&lt;td&gt;boχ-es-t:-i&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;mother-&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;girl-&lt;span class=&#34;scaps&#34;&gt;DAT&lt;/span&gt;&lt;/td&gt;&lt;td&gt;porridge=&lt;span class=&#34;scaps&#34;&gt;3SG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;cook-&lt;span class=&#34;scaps&#34;&gt;INF&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;CAUS&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;AOR&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&#34;4&#34;&gt;‘The mother made the girl cook porridge’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(3) Causee is marked with ergative case (Aghul, [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc6()&#34;&gt;Daniel et al. 2012&lt;span class=&#34;popuptext&#34; id=&#34;PopupID6&#34;&gt;Daniel M., Maisak T., Merdanova S. R. Causatives in Aghul. Argument structure and grammatical relations. A cross-linguistic typology / Ed. by P. Suihkonen, B. Comrie, V. Solovyev. Issue 126. Philadelphia, Amsterdam: John Benjamins Publishing Company, 2012. P. 55-113.&lt;/span&gt;&lt;/span&gt;])
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;baw.a&lt;/td&gt;&lt;td&gt;ruš.a&lt;/td&gt;&lt;td&gt;jak:&lt;/td&gt;&lt;td&gt;ʕut’.a-s&lt;/td&gt;&lt;td&gt;q’.u-ne&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mother(&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;)&lt;/td&gt;&lt;td&gt;daughter(&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;)&lt;/td&gt;&lt;td&gt;meat(&lt;span class=&#34;scaps&#34;&gt;NOM&lt;/span&gt;)&lt;/td&gt;&lt;td&gt;eat.&lt;span class=&#34;scaps&#34;&gt;IPF&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;INF&lt;/span&gt;&lt;/td&gt;&lt;td&gt;do.&lt;span class=&#34;scaps&#34;&gt;PF&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;PFT&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&#34;5&#34;&gt;‘The mother made her daughter eat meat’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The latter case is particularly interesting. In [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc3()&#34;&gt;Daniel et al. 2012&lt;span class=&#34;popuptext&#34; id=&#34;PopupID3&#34;&gt;Daniel M., Maisak T., Merdanova S. R. Causatives in Aghul. Argument structure and grammatical relations. A cross-linguistic typology / Ed. by P. Suihkonen, B. Comrie, V. Solovyev. Issue 126. Philadelphia, Amsterdam: John Benjamins Publishing Company, 2012. P. 55-113.&lt;/span&gt;&lt;/span&gt;] it is proposed that the analytical causative construction in Aghul is biclausal. Normally, two agentive participants in ergative cannot occur in one clause together. Acceptability of (3) indicates that the combination of the infinitive ‘eat’ and the verb ‘do’ appears to be a biclausal construction. It is worth noting, however, that apudessive causee marking in these sentences is preferable; then the construction is considered to be monoclausal (4).&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(4) Aghul, [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc7()&#34;&gt;Daniel et al. 2012&lt;span class=&#34;popuptext&#34; id=&#34;PopupID7&#34;&gt;Daniel M., Maisak T., Merdanova S. R. Causatives in Aghul. Argument structure and grammatical relations. A cross-linguistic typology / Ed. by P. Suihkonen, B. Comrie, V. Solovyev. Issue 126. Philadelphia, Amsterdam: John Benjamins Publishing Company, 2012. P. 55-113.&lt;/span&gt;&lt;/span&gt;]
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;χalid.a&lt;/td&gt;&lt;td&gt;[lik’.a-s&lt;/td&gt;&lt;td&gt;aq’.a-j-e]&lt;sub&gt;VP&lt;/sub&gt;&lt;/td&gt;&lt;td&gt;me&lt;/td&gt;&lt;td&gt;gada.ji-w,&lt;/td&gt;&lt;td&gt;me&lt;/td&gt;&lt;td&gt;ramazan&lt;/td&gt;&lt;td&gt;ʁ.a&lt;/td&gt;&lt;td&gt;gada.ji-w...&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Khalid(&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;)&lt;/td&gt;&lt;td&gt;write.&lt;span class=&#34;scaps&#34;&gt;IPF&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;INF&lt;/span&gt;&lt;/td&gt;&lt;td&gt;do.&lt;span class=&#34;scaps&#34;&gt;IPF&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;CVB&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;COP&lt;/span&gt;&lt;/td&gt;&lt;td&gt;this&lt;/td&gt;&lt;td&gt;boy-&lt;span class=&#34;scaps&#34;&gt;APUD&lt;/span&gt;&lt;/td&gt;&lt;td&gt;this&lt;/td&gt;&lt;td&gt;Ramazan(&lt;span class=&#34;scaps&#34;&gt;NOM&lt;/span&gt;)&lt;/td&gt;&lt;td&gt;say.&lt;span class=&#34;scaps&#34;&gt;IPF&lt;/span&gt;&lt;/td&gt;&lt;td&gt;boy-&lt;span class=&#34;scaps&#34;&gt;APUD&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&#34;9&#34;&gt;‘Khalid forces this guy to write it, this guy called Ramazan’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The second map includes the data on the marking of the causee. Languages are divided into 5 groups:&lt;br&gt;
+(1) essive (for languages, where lative differs morphologically from essive at least in this localization);&lt;br&gt;
+(2) essive/lative (for languages, where lative does not differ morphologically from essive at least in this localization);&lt;br&gt;
+(3) elative;&lt;br&gt;
+(4) dative;&lt;br&gt;
+(5) other.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/caus-mark.html&#34; width=&#34;100%&#34; height=&#34;400px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distance Contrast</title>
+      <link>http://dagatlas.hol.es/post/distance_contrast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/distance_contrast/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/distance_contrast.html&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

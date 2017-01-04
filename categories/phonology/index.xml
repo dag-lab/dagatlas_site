@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typological Atlas of East-Caucasian Languages</title>
+    <link>http://dagatlas.hol.es/categories/phonology/index.xml</link>
+    <description>Recent content on Typological Atlas of East-Caucasian Languages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://dagatlas.hol.es/categories/phonology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fortis Ejectives</title>
+      <link>http://dagatlas.hol.es/post/fortis_ejectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/fortis_ejectives/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/fortis_ejectives.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gemination</title>
+      <link>http://dagatlas.hol.es/post/gemination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/gemination/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Gemination is an audible lengthening of the consonants.&lt;/p&gt;
+
+&lt;p&gt;Twelve languages od the sample lack geminated consonants (44.44%). The rest of the languages of the sample was divided into three groups depending on the number of the geminated phonemes attested. Group marked on the map as «small» includes languages demonstrating up to 10 geminated phonemes. Group marked as «medium» on the map includes languages demonstrating from 15 to 25 geminates. Group «large» includes languages demonstrating from 30 to 44 geminates.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/gemination.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Labialization</title>
+      <link>http://dagatlas.hol.es/post/labialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/labialization/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Labialization is a secondary articulation involving the lips while producing another sound. This map describes 27 languages of East Caucasian language family.&lt;/p&gt;
+
+&lt;p&gt;There are seven languages of the sample lacking labialized vowels (25.93%). The rest of the languages in the sample demonstrates labialized consonants. Since the number of the components varies they were divided into three groups.&lt;/p&gt;
+
+&lt;p&gt;The first group is a group of languages with a small number of labialized consonants attested – up to 10 phonemes. These languages are marked as «small» on the map. Second group is a group with an average number of labialized consonants attested – from 13 to 26 phonemes. These languages are marked as «medium» on the map. Second group includes 9 languages. Five language of the sample demonstrate relatively large amount of labialized consonants – from 34 to 46 phonemes. These language form a third group of languages and marked as «large» on the map.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap&#34;&gt;type 1 map&lt;/span&gt;
+&lt;iframe style=&#34;display: none;&#34; id=&#34;idmap1&#34; src=&#34;http://maps-for-sasha.hol.es/maps/labialization.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laterals</title>
+      <link>http://dagatlas.hol.es/post/laterals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/laterals/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Lateral consonants are produced by airstream proceeding along the side of the tongue. The most common laterals are approximants.&lt;/p&gt;
+
+&lt;p&gt;There are 16 languages demonstrating obstruent laterals in the sample (59.26% of the sample). These languages were divided into two groups. First group consists of the languages demonstrating from 4 to 6 laterals. First group is marked as «small» on the map. There are eleven languages in the sample demonstrating only lateral approximant /l/ (40.74% of the sample). These languages are also included in the group «small». Languages of the second group are marked on the map as «large» and demonstrate from 10 to 19 laterals.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/laterals.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pharyngealization</title>
+      <link>http://dagatlas.hol.es/post/pharynx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/pharynx/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/pharynx.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voiced Uvular</title>
+      <link>http://dagatlas.hol.es/post/voiced_uvulars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/voiced_uvulars/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/voiced_uvular.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

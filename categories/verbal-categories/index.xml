@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typological Atlas of East-Caucasian Languages</title>
+    <link>http://dagatlas.hol.es/categories/verbal-categories/index.xml</link>
+    <description>Recent content on Typological Atlas of East-Caucasian Languages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://dagatlas.hol.es/categories/verbal-categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Causative Type</title>
+      <link>http://dagatlas.hol.es/post/causative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/causative/</guid>
+      <description>&lt;script&gt;
+function popupfunc() {
+    var popup = document.getElementById(&#39;PopupID&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc1() {
+    var popup = document.getElementById(&#39;PopupID1&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}   
+function popupfunc2() {
+    var popup = document.getElementById(&#39;PopupID2&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}
+function popupfunc3() {
+    var popup = document.getElementById(&#39;PopupID3&#39;);
+    popup.classList.toggle(&#39;show&#39;);
+}   
+&lt;/script&gt;
+&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Causative constructions (see also &lt;i&gt;глаголы с понудительным значением&lt;/i&gt; [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc()&#34;&gt;Бокарев 1949&lt;span class=&#34;popuptext&#34; id=&#34;PopupID&#34;&gt;Бокарев А. А. Очерк грамматики чамалинского языка. Издательство Академии наук СССР, 1949.&lt;/span&gt;&lt;/span&gt;],
+&lt;i&gt;понудительный залог глагола&lt;/i&gt; [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc1()&#34;&gt;Сулейманов 1957&lt;span class=&#34;popuptext&#34; id=&#34;PopupID1&#34;&gt;Сулейманов Я. Г. Грамматический очерк андийского языка (по данным говора с. Риквани). М.: Институт языкознания Академии наук союза ССР, 1957.&lt;/span&gt;&lt;/span&gt;]) are widespread in the languages of the world, and in Dagestanian languages in particular. Causative construction presumes the existence of two situations, the cause and its result. The new agent called causer is added. Former subject (S or P of the initial situation), now the ‘causee’, gets lower syntactic position. The main parameters of the typological variation of causatives are, firstly, the ways to form the causative (morphologically or analytically) and, secondly, the case-marking of the causee.&lt;/p&gt;
+
+&lt;p&gt;East Caucasian languages include languages with the morphological causative (Andi, Bats, Chamalal, Chechen, Itsari, Tanti, Godoberi, Hunzib, Ingush, Lezgian, Tindi, Tsez, Udi) and languages with the analytical causative (Archi, Khinalug, Lak, Rutul, Tabasaran). For some languages with the morphological causative, analytic construction is also described in grammar  (Aghul, Akhvakh, Avar, Bagvalal, Botlikh, Budukh, Hinuq, Karata, Khwarshi, Kubachi, Mehweb).&lt;/p&gt;
+
+&lt;p&gt;Morphological causative is formed by adding a special affix to the original verb. In (1), to form the verb meaning ‘wake up’, suffix &lt;i&gt;k’&lt;/i&gt; is added to the verb stem -&lt;i&gt;arče&lt;/i&gt;, which means ‘get up’ (Hunzib, example from [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc2()&#34;&gt;Van den Berg 1995&lt;span class=&#34;popuptext&#34; id=&#34;PopupID2&#34;&gt;Van den Berg H. A Grammar of Hunzib (with Texts and Lexicon). München: Lincom Europa, 1995.&lt;/span&gt;&lt;/span&gt;]): -&lt;i&gt;arče&lt;/i&gt; ‘get up’, -&lt;i&gt;arče-k’&lt;/i&gt; ‘wake up’.&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(1) Hunzib
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;iyu-l&lt;/td&gt;&lt;td&gt;y-arče-k’-er&lt;/td&gt;&lt;td&gt;kid&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mother-&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;&lt;/td&gt;&lt;td&gt;2-get.up-&lt;span class=&#34;scaps&#34;&gt;CAUS&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;PRET&lt;/span&gt;&lt;/td&gt;&lt;td&gt;girl/2&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&#34;3&#34;&gt;‘mother woke up the daughter’&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sometimes it is said in grammar that causative from intransitive forms transitive, whereas causative from transitive provides causative actually (Karata, Tindin, Botlikh grammars). Analytical causative construction consists of the finite auxiliary verb and the infinitive of the lexical verb. Verbs most commonly used as causativizers are ‘do, make’ (e.g. Aghul), but also ‘guide’ (Akhvakh), ‘let’ (Khwarshi), ‘overcome’ (Kubachi).
+In (2) one can see the analytical causative of ‘see’ - ‘show’ (Khwarshi, example from
+[Khalilova 2009]). The auxiliary verb is ‘let’.&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(2) Khwarshi, [&lt;span class=&#34;popup&#34; onclick=&#34;popupfunc3()&#34;&gt;Khalilova 2009&lt;span class=&#34;popuptext&#34; id=&#34;PopupID3&#34;&gt;Khalilova Z. A Grammar of Khwarshi. Utrecht: LOT, 2009.&lt;/span&gt;&lt;/span&gt;]
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;ut’ana-t’a&lt;/td&gt;&lt;td&gt;zidoro-bo&lt;/td&gt;&lt;td&gt;l-ak&lt;sup&gt;w&lt;/sup&gt;-a&lt;/td&gt;&lt;td&gt;l-ešt’-un&lt;/td&gt;&lt;td&gt;boc’-i&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;red-&lt;span class=&#34;scaps&#34;&gt;PL&lt;/span&gt;&lt;/td&gt;&lt;td&gt;material.&lt;span class=&#34;scaps&#34;&gt;OBL&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;PL.ABS&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;NHPL&lt;/span&gt;-see-&lt;span class=&#34;scaps&#34;&gt;INF&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;NHPL&lt;/span&gt;-let-&lt;span class=&#34;scaps&#34;&gt;PST.UW&lt;/span&gt;&lt;/td&gt;&lt;td&gt;wolf.&lt;span class=&#34;scaps&#34;&gt;OBL&lt;/span&gt;-&lt;span class=&#34;scaps&#34;&gt;ERG&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&#34;5&#34;&gt;‘The wolf showed the red material’.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The map is dedicated to the causative type:&lt;br&gt;
+(1) morphological;&lt;br&gt;
+(2) analytical;&lt;br&gt;
+(3) morphological and analytical.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/causative.html&#34; width=&#34;100%&#34; height=&#34;700px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jussive</title>
+      <link>http://dagatlas.hol.es/post/jussive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/jussive/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;category description&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/jussive.html&#34; width=&#34;100%&#34; height=&#34;550px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optative</title>
+      <link>http://dagatlas.hol.es/post/performative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/performative/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Optative is a verbal category related to the expression of the wish of the speaker. According to [Dobrushina 2011], East Caucasian languages can distinguish between two types of optative: performative and desiderative. The former is used in blessing and curses and other kinds of ritual formulae. While it is not typical for languages of the world to have a dedicated form to express this meaning, most Caucasian languages have inflectional performative optative.&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(1) Abkhaz
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;sɨ-ps-aːjt’&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;1SG&lt;/span&gt;-die-&lt;span class=&#34;scaps&#34;&gt;PFM.OPT&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;‘May I die!’&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/performative.html&#34; width=&#34;100%&#34; height=&#34;550px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preverbs</title>
+      <link>http://dagatlas.hol.es/post/preverbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dagatlas.hol.es/post/preverbs/</guid>
+      <description>&lt;script src=&#34;https://code.jquery.com/jquery-3.1.1.min.js&#34; integrity=&#34;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        $(&#39;#myonoffswitch&#39;).change(function() {
+            $(&#34;#idmap1&#34;).toggle();       
+            $(&#34;#idmap&#34;).toggle();       
+        });
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Preverbs are elements occurring before the verb root and adding specific meaning (prototypically locative and directive) to the verb base. It is a traditional notion for the description of languages of the Caucasus.&lt;/p&gt;
+
+&lt;p&gt;We do not treat negative elements and agreement slots, which can take place in prefixal position in verb too, as preverbs. In case if language has only such elements we treat it as a language without preverbs.&lt;/p&gt;
+
+&lt;p&gt;In some cases it is not obvious, does the language have preverbs or not. For instance, in Tsez preverbs, probably, could be attested before, but on the synchronic level they are bound up with the verbal root [Comrie 2007]. They are no longer regarded as independent morphemes. We decided to treat languages like Tsez as languages without preverbs.
+There are also cases when we use the term “non-productive preverbs” for describing a language system. For example, in Tsakh preverbal elements are attested because of the presence of agreement slot between the prefix and the root. Such elements can be treated as independent morphemes with zero meaning.&lt;/p&gt;
+
+&lt;p&gt;It is important to mention the relation of preverbs and postpositions (postpositional cases), prepositions and locative adverbs. In Chechen the one world can behave like adverbial, postposition or preverb [Jakovlev 1960]. In Batsbi most postpositions cognate to adverbs but also can be a part of the verb preceding its root.&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(1) Batsbi [Desheriev 1953]
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;a.&lt;/td&gt;&lt;td&gt;t’iv-en&lt;/td&gt;&lt;td&gt;&lt;b&gt;mak&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Va&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;bridge-&lt;span class=&#34;scaps&#34;&gt;dat&lt;/span&gt;&lt;/td&gt;&lt;td&gt;on&lt;/td&gt;&lt;td&gt;is&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&#34;3&#34;&gt;‘he is on the bridge’&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;b.&lt;/td&gt;&lt;td&gt;otta:&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;&lt;b&gt;mak&lt;/b&gt;-ottă&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;stay&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;on-stay&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&#39;to stay&#39;&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;&#39;to step&#39;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Furthermore, in Bats preverbs can have aspectual meaning. Probably, it has appeared under the influence of Georgian language. Among twelve preverbal elements attested in this language there are ones with complex meaning.&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(2) Batsbi [Desheriev 1953]
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;ħalaħŏ&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;‘up and down’&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt; 
+
+&lt;p&gt;Preverbs also can be morphologically complex. It means that there can be more than one preverb before the root. Usually, in this case there are two preverbs, where orientation preverb precedes the direction one. For instance, such clusters are typical for Dargwa.&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(3) Dargwa 
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;i-ka-b=iχ&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;onto-downwards-&lt;span class=&#34;scaps&#34;&gt;n&lt;/span&gt;=put&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;‘sit down on something’&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As was mentioned above, preverbs can have not only locative or directive meaning. In Agul repetitive preverb is attested [Maisak et al. 2002]. In Ingush there is a reciprocal preverbal element [Nichols 2011].&lt;/p&gt;
+
+&lt;p&gt;Dialects of the same language can have slightly different preverbal systems. Usually, they have different number of preverbal elements or similar systems with the same functions, but with some phonetic differences.&lt;/p&gt;
+
+&lt;p&gt;Another fact in which we were interested in is the number of preverbs attested in each language with productive preverbal system. All the numbers were taken from the grammatical descriptions which sometimes lack reliable information on this point. The smallest number of preverbs was attested in Hunzib – there are 4 productive preverbs, and the biggest amount – in the dialects of Dargwa (&amp;gt;20 preverbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;onoffswitch&#34;&gt;
+    &lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; checked&gt;
+    &lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;
+        &lt;span class=&#34;onoffswitch-inner&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;onoffswitch-switch&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;span id=&#34;idmap1&#34; style=&#34;display: none;&#34;&gt;type 2 map&lt;/span&gt;
+&lt;iframe id=&#34;idmap&#34; src=&#34;http://maps-for-sasha.hol.es/maps/preverbs.html&#34; width=&#34;100%&#34; height=&#34;550px&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
